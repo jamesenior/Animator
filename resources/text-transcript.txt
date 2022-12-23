@@ -1,0 +1,229 @@
+canvas: 410x220
+new rectangle disk1
+new rectangle disk2
+new rectangle disk3
+From t=0.0 to t=500.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (200, 195)
+Color: (0, 0, 0)
+From t=500.0 to t=700.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=700.0 to t=720.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=720.0 to t=920.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=920.0 to t=940.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=940.0 to t=1140.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 240)
+Color: (0, 0, 0)
+From t=1140.0 to t=1780.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 240)
+Color: (0, 0, 0)
+From t=1780.0 to t=1980.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=1980.0 to t=2000.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=2000.0 to t=2200.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 50)
+Color: (0, 0, 0)
+From t=2200.0 to t=2220.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 50)
+Color: (0, 0, 0)
+From t=2220.0 to t=2420.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 210)
+Color: (0, 0, 0)
+From t=2420.0 to t=3060.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 210)
+Color: (0, 0, 0)
+From t=3060.0 to t=3260.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 50)
+Color: (0, 0, 0)
+From t=3260.0 to t=3280.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (340, 50)
+Color: (0, 0, 0)
+From t=3280.0 to t=3480.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=3480.0 to t=3500.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=3500.0 to t=3700.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 240)
+Color: (0, 0, 0)
+From t=3700.0 to t=4340.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 240)
+Color: (0, 0, 0)
+From t=4340.0 to t=4540.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=4540.0 to t=4560.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (190, 50)
+Color: (0, 0, 0)
+From t=4560.0 to t=4760.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=4760.0 to t=4780.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 50)
+Color: (0, 0, 0)
+From t=4780.0 to t=4980.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 180)
+Color: (0, 0, 0)
+From t=4980.0 to t=5140.0, move disk1 to:
+Width: 20
+Height: 30
+Position: (490, 180)
+Color: (0, 1, 0)
+From t=0.0 to t=1140.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (199, 225)
+Color: (0, 0, 0)
+From t=1140.0 to t=1340.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (167, 50)
+Color: (0, 0, 0)
+From t=1340.0 to t=1360.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (167, 50)
+Color: (0, 0, 0)
+From t=1360.0 to t=1560.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 50)
+Color: (0, 0, 0)
+From t=1560.0 to t=1580.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 50)
+Color: (0, 0, 0)
+From t=1580.0 to t=1780.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 240)
+Color: (0, 0, 0)
+From t=1780.0 to t=3700.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 240)
+Color: (0, 0, 0)
+From t=3700.0 to t=3900.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 50)
+Color: (0, 0, 0)
+From t=3900.0 to t=3920.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (317, 50)
+Color: (0, 0, 0)
+From t=3920.0 to t=4120.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (467, 50)
+Color: (0, 0, 0)
+From t=4120.0 to t=4140.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (467, 50)
+Color: (0, 0, 0)
+From t=4140.0 to t=4340.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (467, 210)
+Color: (0, 0, 0)
+From t=4340.0 to t=4500.0, move disk2 to:
+Width: 65
+Height: 30
+Position: (467, 210)
+Color: (0, 1, 0)
+From t=0.0 to t=2420.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (200, 255)
+Color: (0, 0, 0)
+From t=2420.0 to t=2620.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (145, 50)
+Color: (0, 0, 0)
+From t=2620.0 to t=2640.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (145, 50)
+Color: (0, 0, 0)
+From t=2640.0 to t=2840.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (445, 50)
+Color: (0, 0, 0)
+From t=2840.0 to t=2860.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (445, 50)
+Color: (0, 0, 0)
+From t=2860.0 to t=3060.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (445, 240)
+Color: (0, 0, 0)
+From t=3060.0 to t=3220.0, move disk3 to:
+Width: 110
+Height: 30
+Position: (445, 240)
+Color: (0, 1, 0)
