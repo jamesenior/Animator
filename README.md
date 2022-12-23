@@ -1,5 +1,3 @@
-# Group_OOD
-
 The Easy Animator Application
 this is the ReadMe file for our EasyAnimatorModel.
 
