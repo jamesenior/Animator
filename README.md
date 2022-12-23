@@ -1,5 +1,6 @@
 The Easy Animator Application
-this is the ReadMe file for our EasyAnimatorModel.
+
+This is the ReadMe file for our EasyAnimatorModel.
 
 First, we created our own classes for a Color inputting RGB, and a Posn with an x and y position.  These classes are pretty self explanatory. 
 
